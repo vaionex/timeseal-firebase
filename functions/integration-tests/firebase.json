@@ -1,0 +1,17 @@
+{
+  "emulators": {
+    "functions": {
+      "port": 5001
+    },
+    "ui": {
+      "enabled": true
+    },
+    "singleProjectMode": true,
+    "firestore": {
+      "port": 8080
+    }
+  },
+  "extensions": {
+    "timeseal": "../.."
+  }
+}
