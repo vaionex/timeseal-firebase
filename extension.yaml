@@ -12,10 +12,21 @@ displayName: TimeSeal
 description: >-
   Securely timestamp your data
 
+icon: icon.png
+
 license: Apache-2.0  # https://spdx.org/licenses/
 
 # Public URL for the source code of your extension
-#sourceUrl: https://github.com/firebase/firebase-tools/tree/master/templates/extensions
+sourceUrl: https://github.com/vaionex/timeseal-firebase
+
+author:
+  authorName: Vaionex
+  email: one@vaionex.com
+  url: https://www.vaionex.com/
+contributors:
+  - authorName: Saad Ahmad
+    email: saadahmad96@hotmail.com
+    url: https://saadahmad.xyz
 
 # Specify whether a paid-tier billing plan is required to use your extension.
 # Learn more in the docs: https://firebase.google.com/docs/extensions/reference/extension-yaml#billing-required-field
