@@ -1,6 +1,6 @@
 {
-  "name": "greet-the-world",
-  "description": "Greet the world",
+  "name": "firebase-timeseal-timestamp",
+  "description": "Firebase extension for TimeSeal",
   "main": "index.js",
   "type": "module",
   "dependencies": {
