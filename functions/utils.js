@@ -4,9 +4,9 @@ import AES from "crypto-js/aes.js";
 import Base64 from "crypto-js/enc-base64.js";
 
 export function getType(change) {
-  if (!change.after.exists) return "Delete";
-  if (!change.before.exists) return "Create";
-  return "Update";
+  if (!change.after.exists) return "delete";
+  if (!change.before.exists) return "create";
+  return "update";
 }
 
 export function getData(change) {

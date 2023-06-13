@@ -66,3 +66,4 @@ node_modules/
 .env
 
 extensions/timeseal.env
+extensions/timeseal.secret.local
