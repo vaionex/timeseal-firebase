@@ -32,14 +32,9 @@ contributors:
 # Learn more in the docs: https://firebase.google.com/docs/extensions/reference/extension-yaml#billing-required-field
 billingRequired: false
 
-# In an `apis` field, list any Google APIs (like Cloud Translation, BigQuery, etc.)
-# required for your extension to operate.
-# Learn more in the docs:
-# https://firebase.google.com/docs/extensions/reference/extension-yaml#apis-field
-
-# In a `roles` field, list any IAM access roles required for your extension to operate.
-# Learn more in the docs:
-# https://firebase.google.com/docs/extensions/reference/extension-yaml#roles-field
+externalServices:
+  - name: TimeSeal
+    pricingUri: https://www.timeseal.com/pricing
 
 # In the `resources` field, list each of your extension's functions, including the trigger for each function.
 # Learn more in the docs:
