@@ -14,7 +14,7 @@ description: >-
 
 icon: icon.png
 
-license: MIT  # https://spdx.org/licenses/
+license: Apache-2.0  # https://spdx.org/licenses/
 
 # Public URL for the source code of your extension
 sourceUrl: https://github.com/vaionex/timeseal-firebase
