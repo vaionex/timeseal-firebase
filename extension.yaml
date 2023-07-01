@@ -14,7 +14,7 @@ description: >-
 
 icon: icon.png
 
-license: Apache-2.0  # https://spdx.org/licenses/
+license: MIT  # https://spdx.org/licenses/
 
 # Public URL for the source code of your extension
 sourceUrl: https://github.com/vaionex/timeseal-firebase
@@ -25,7 +25,7 @@ author:
   url: https://www.vaionex.com/
 contributors:
   - authorName: Saad Ahmad
-    email: saadahmad96@hotmail.com
+    email: saad@vaionex.com
     url: https://saadahmad.xyz
 
 # Specify whether a paid-tier billing plan is required to use your extension.
