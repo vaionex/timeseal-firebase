@@ -1,2 +1,2 @@
-## Version 0.0.2
-- Added External Services to YAML file
+## Version 0.0.3
+- Fixed lock file error
