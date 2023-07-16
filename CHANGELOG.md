@@ -1,2 +1,2 @@
-## Version 0.0.3
-- Fixed lock file error
+## Version 0.0.4
+- Updated extension description and tags
