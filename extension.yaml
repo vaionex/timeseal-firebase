@@ -28,7 +28,7 @@ contributors:
     email: saad@vaionex.com
     url: https://saadahmad.xyz
   
-  tags: [utilities]
+tags: [utilities]
 
 # Specify whether a paid-tier billing plan is required to use your extension.
 # Learn more in the docs: https://firebase.google.com/docs/extensions/reference/extension-yaml#billing-required-field
