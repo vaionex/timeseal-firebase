@@ -10,7 +10,7 @@ displayName: TimeSeal
 
 # Brief description of the task your extension performs (~1 sentence)
 description: >-
-  Securely timestamp your data
+  TimeSeal is a secure blockchain timestamping solution that ensures data integrity and transforms apps into blockchain applications.
 
 icon: icon.png
 
@@ -27,6 +27,8 @@ contributors:
   - authorName: Saad Ahmad
     email: saad@vaionex.com
     url: https://saadahmad.xyz
+  
+  tags: [utilities]
 
 # Specify whether a paid-tier billing plan is required to use your extension.
 # Learn more in the docs: https://firebase.google.com/docs/extensions/reference/extension-yaml#billing-required-field
