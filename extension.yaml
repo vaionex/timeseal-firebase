@@ -38,6 +38,10 @@ externalServices:
   - name: TimeSeal
     pricingUri: https://www.timeseal.com/pricing
 
+roles:
+  - role: datastore.user
+    reason: Allows this extension to access Cloud Firestore to read/write.
+
 # In the `resources` field, list each of your extension's functions, including the trigger for each function.
 # Learn more in the docs:
 # https://firebase.google.com/docs/extensions/reference/extension-yaml#resources-field
