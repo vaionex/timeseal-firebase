@@ -3,6 +3,9 @@
   "description": "Firebase extension for TimeSeal",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "18"
+  },
   "dependencies": {
     "crypto-js": "^4.1.1",
     "firebase-admin": "^11.5.0",

@@ -1,2 +1,4 @@
 # IDE config files
 .idea
+
+firebase-debug.log

@@ -1,2 +1,2 @@
-## Version 0.0.4
-- Updated extension description and tags
+## Version 0.0.5
+ - Fixed fetch not working
