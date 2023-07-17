@@ -1,4 +1,5 @@
 import config from "./config.js";
+import fetch from "node-fetch"
 
 export async function timestamp({ data, type }) {
   const response = await fetch("https://api.timeseal.com/api/v1/timeseal", {
