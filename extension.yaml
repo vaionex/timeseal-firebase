@@ -2,11 +2,11 @@
 # https://firebase.google.com/docs/extensions/reference/extension-yaml
 
 name: firebase-timeseal-timestamp  # Identifier for your extension
-version: 0.0.5  # Follow semver versioning
+version: 0.0.6  # Follow semver versioning
 specVersion: v1beta  # Version of the Firebase Extensions specification
 
 # Friendly display name for your extension (~3-5 words)
-displayName: TimeSeal
+displayName: Synchronize Firebase to Blockchain with TimeSeal
 
 # Brief description of the task your extension performs (~1 sentence)
 description: >-
@@ -27,7 +27,7 @@ contributors:
   - authorName: Saad Ahmad
     email: saad@vaionex.com
     url: https://saadahmad.xyz
-  
+
 tags: [utilities]
 
 # Specify whether a paid-tier billing plan is required to use your extension.

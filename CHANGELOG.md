@@ -1,2 +1,2 @@
-## Version 0.0.5
- - Fixed fetch not working
+## Version 0.0.6
+ - New extension display name
